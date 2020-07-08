@@ -1,6 +1,8 @@
 # Ajuste_Explosao_materia_prima
 Módulo para validar se a matéria prima de um item foi detalhada corretamente subtraída a existente. (precisa de uma tabela inicial)
 
+
+
 Fiz este programa pois notei que muitos programadores ABAP vinham tendo problemas com a validação dos itens nos diversos estoques possveis
 Ele faz validação, de default, nos estoques:
   - Normal;
@@ -10,6 +12,7 @@ Ele faz validação, de default, nos estoques:
   - Consignado;
   - Beneficiario.
   Com isto, altere conforme o necessário e ajuste as variáveis locais.
-  
-  com isto, ele revalida e adiciona um token em cada item que devera ser removido ou subtraido do existente.
+
+Você precisa adionar 2 campos que utilizaremos de flag na sua listagem dos itens, o "flagimp" e o "flagprc", que farão a verificação para o recalculo.
+ com isto, ele valida pela flag em cada item que devera ser removido ou subtraido do existente e gera a lista solicitada.
  

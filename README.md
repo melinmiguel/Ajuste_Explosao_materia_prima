@@ -1,4 +1,4 @@
-# Ajuste_Explosao_materia_prima
+# Explosion_feedstock_ABAP4
 Módulo para validar se a matéria prima de um item foi detalhada corretamente subtraída a existente. (precisa de uma tabela inicial)
 
 

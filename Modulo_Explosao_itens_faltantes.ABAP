@@ -1,7 +1,7 @@
 *---------------------------------------------------------------------------*
-*Módulo de explosão de itens em ABAP4 / SAP. 								*	
+*Módulo de explosão de itens em ABAP4 / SAP. 				    *	
 *Módulo para programa de calculo de matéria prima em estoque x	necessidade *
-*de matéria prima para fabricação de equipamentos.							*
+*de matéria prima para fabricação de equipamentos.			*
 *								PT-BR											*
 *Programa realizado por: Leonardo M. Miguel 						  		*
 *e-mail: melinmiguel@gmail.com	em caso de duvidas, entre em contato! 		*
@@ -13,8 +13,8 @@
 *Module from program of calculated Raw Material in Stock x	Necessit	    *
 *of raw material to manufacture new itens.									*
 *								EN-US											*
-*Programa realizado por: Leonardo M. Miguel 						  		*
-*e-mail: melinmiguel@gmail.com	em caso de duvidas, entre em contato! 		*
+*Produced by: Leonardo M. Miguel 						  		*
+*e-mail: melinmiguel@gmail.com	an dubts, call me! 		*
 *Prog. nº 7															     	*
 *---------------------------------------------------------------------------*
 
